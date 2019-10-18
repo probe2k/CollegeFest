@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+## IDEA
 
-This project is a starting point for a Flutter application.
+This project basically involves the frontend for TechEvent organization.
+The events list is modeled using ListView builder which fetches data from yet another Model Class. Holds integration of ModelPageApp Routing.
 
-A few resources to get you started if this is your first Flutter project:
+# plugins used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+flutter_calendar: ^0.0.1
+table_calendar: ^2.0.1
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# copyright claims
+
+Media assets are randomly taken from google - I hold no copyright over them (Except for the user_profile.png)
